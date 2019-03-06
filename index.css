@@ -16,5 +16,6 @@ body{
 h1{
     opacity: .8;
     font-size: 60px;
-    letter-spacing: 12px;
+    font-weight: 300;
+    letter-spacing: 2px;
 }
