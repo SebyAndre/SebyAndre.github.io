@@ -9,5 +9,12 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background: #191919;
+    background: #0c0c0c;
+    color: white;
+    font-family: gilroy;
+}
+h1{
+    opacity: .8;
+    font-size: 60px;
+    letter-spacing: 12px;
 }
